@@ -9,7 +9,7 @@
         <img src="https://github.com/MuGeminorum/MuGeminorum/assets/20459298/7aa69819-64eb-4095-a773-ef0905519c94" /img>
       </td>
       <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monet-joe&langs_count=8&layout=compact&theme=dracula" /img>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuGeminorum&langs_count=8&layout=compact&theme=dracula" /img>
       </td>
     </tr>
   </tbody>
