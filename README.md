@@ -10,7 +10,7 @@
       </td>
       <td width="40%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monet-joe&langs_count=8&layout=compact&theme=dracula" /img><br>
-        <p>我的主要作品集均已移至个人工作室号<a href="https://github.com/MuGeminorum">@MuGeminorum</a>，因此面板看起来缩水</p>
+        <p>我的主要作品集均已移至个人工作室号<a href="https://github.com/MuGeminorum">@MuGeminorum</a><br>因此面板看起来缩水</p>
       </td>
     </tr>
   </tbody>
