@@ -1,10 +1,10 @@
 <table>
   <tbody>
     <tr>
-      <td width="25%">
+      <td width="28%">
         <img src="https://github-readme-stats.vercel.app/api?username=monetjoe&hide_rank=true&show_icons=true&theme=dracula">
       </td>
-      <td width="75%">
+      <td width="72%">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monetjoe/monetjoe/output/github-contribution-grid-snake-dark.svg">
           <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monetjoe/monetjoe/output/github-contribution-grid-snake.svg">
